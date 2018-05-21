@@ -1,2 +1,3 @@
 # hello-world
-Intro
+
+I am using the hello-world GH guide.
